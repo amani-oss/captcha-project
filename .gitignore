@@ -1,0 +1,25 @@
+# Build outputs
+build/
+bin/
+out/
+target/
+
+# Gradle
+.gradle/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
